@@ -1,9 +1,9 @@
 const cacheName = "testCompany-Telegram test-1.1";
 const contentToCache = [
-    "Build/build2.loader.js",
-    "Build/build2.framework.js",
-    "Build/build2.data",
-    "Build/build2.wasm",
+    "Build/0e0b3863e33328518df116de8521a9dc.loader.js",
+    "Build/195c5905a7da48f4347533a05f43b296.framework.js",
+    "Build/6e8989ef26af4aa25238a2ee91b3b439.data",
+    "Build/d6d8992519c889f7a5c7e711ebf77e87.wasm",
     "TemplateData/style.css"
 
 ];
